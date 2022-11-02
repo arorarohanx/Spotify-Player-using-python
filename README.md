@@ -1,6 +1,8 @@
 # Spotify-Player-using-python
 A Spotify Player Automated created for lazy guys like me :))
 
+Much Important :-- I**It can only work for 1920x1080p resolution**
+
 Make sure you have Spotify installed on your Pc/Laptop  else it won't work
 
 You can easily play this just follow few steps : -
